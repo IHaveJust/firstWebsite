@@ -1,1 +1,1 @@
-# the very first website I have made not knowing anything about programming (2018)
+# the very first website I have made knowing nothing about programming
